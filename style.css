@@ -91,7 +91,14 @@ header i:hover{
 
 
 }
-
+.visit-btn:active{
+   color: black;
+   opacity: 0.75;
+}
+.visit-btn a{
+    text-decoration: none;
+    color: white;
+}
 #menu-icon {
     font-size: 2 rem;
     display: none;
